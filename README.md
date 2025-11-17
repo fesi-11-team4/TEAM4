@@ -61,11 +61,26 @@
 | 개발 서버 실행 | `npm run dev` | http://localhost:3000 |
 | 형식/품질 점검(선택) | `npm run lint` / `npm run typecheck` | ESLint / TypeScript 검사 |
 | 단위 테스트(선택) | `npm test` | Jest 실행 |
-| 프로덕션 빌드 | `npm run build` | 최적화된 빌드 생성 |
+| 프로덕션 빌드 | `npm run build` | 빌드 생성 |
 | 로컬 프로덕션 실행 | `npm start` | 빌드 산출물 실행 |
 ---
 
 
 ![Image](https://github.com/user-attachments/assets/fc0ca779-6d7d-49cc-b745-cb301b4b4ad5)
-![Image](https://github.com/user-attachments/assets/95a47c5e-7761-4a30-8c48-dcf01202c080)
+
+- 메인페이지
+<img width="7680" height="4120" alt="Image" src="https://github.com/user-attachments/assets/5e95c596-8c34-4440-ad51-055a742d1a32" />
+
+- 상세페이지 (태블릿)
+<img width="2976" height="5428" alt="Image" src="https://github.com/user-attachments/assets/2072fbcf-8028-47a7-9553-d7431c628ae4" />
+
+- 모든 리뷰 조회 페이지
+<img width="1884" height="945" alt="Image" src="https://github.com/user-attachments/assets/d143cf47-1aba-483c-909c-0cee4aa3100c" />
+
+- 마이페이지 (모바일)
+<img width="412" height="915" alt="Image" src="https://github.com/user-attachments/assets/4202bbcd-4556-4ca7-b620-ca2ae1849e25" />
+
 ![Image](https://github.com/user-attachments/assets/f1699691-236d-453e-9a1c-9296aef45431)
+
+**황승현** : **https://github.com/hwangshyun**
+**박세준** : **https://github.com/Johnsnim**
